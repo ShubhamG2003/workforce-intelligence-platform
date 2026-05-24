@@ -63,8 +63,5 @@ streamlit run app.py
 
 ## Result
 
-```markdown
 ![Dashboard Overview](Assets/overview.png)
 
-
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
