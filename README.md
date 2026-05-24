@@ -57,3 +57,9 @@ workforce-dashboard/<br>
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+## Overview
+```markdown
+![Dashboard](assets/dashboard.png)
