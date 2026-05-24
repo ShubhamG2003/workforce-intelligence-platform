@@ -36,19 +36,19 @@ An AI-powered workforce analytics system that tracks employee productivity, burn
 
 ## 📁 Project Structure
 
-workforce-dashboard/\n
-│
-├── app.py
-├── config.py
-│
-├── data/
-├── features/
-├── services/
-├── utils/
-│
-├── requirements.txt
-├── README.md
-├── .gitignore
+workforce-dashboard/<br>
+│<br>
+├── app.py<br>
+├── config.py<br>
+│<br>
+├── data/<br>
+├── features/<br>
+├── services/<br>
+├── utils/<br>
+│<br>
+├── requirements.txt<br>
+├── README.md<br>
+├── .gitignore<br>
 
 ---
 
