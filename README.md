@@ -64,4 +64,4 @@ streamlit run app.py
 ## Result
 
 ```markdown
-![Dashboard Overview](assets/overview.png)
+![Dashboard Overview](Assets/overview.png)
